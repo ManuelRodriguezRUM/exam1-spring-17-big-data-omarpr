@@ -59,7 +59,7 @@
   </dependencies>
 
   <build>
-    <finalName>mrsp03-${project.version}</finalName>
+    <finalName>p1exam1-${project.version}</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
